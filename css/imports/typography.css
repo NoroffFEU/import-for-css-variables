@@ -1,0 +1,9 @@
+h1 {
+    font-size: 3em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p {
+    color: var(--text-colour);
+    margin-bottom: 1em;
+}
